@@ -4,7 +4,7 @@
 
 인프런 강의를 중심으로 공부하며, 다음 로드맵의 순서에 따라 진행합니다.  
 
-[김영한의 자바 완전 정복 로드맵]([https://www.inflearn.com/roadmaps/373](https://www.inflearn.com/roadmaps/744))
+[김영한의 자바 완전 정복 로드맵]((https://www.inflearn.com/roadmaps/744))
 
 
 ## 강의 목차
