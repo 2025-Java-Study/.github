@@ -31,6 +31,6 @@
 | 이름 | username | state |
 | --- | --- | --- |
 | 덕린 | [Dante](https://github.com/YuDeokRin) |   👨‍💻👑  |
-| 원선 | [im1sun](https://github.com/im1sun)  |  👨‍💻  |
+| 원선 | [im1sun](https://github.com/im1sun)  |  👨‍💻😎  |
 | 용학 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
 | 세엽 | [seyeop03](https://github.com/seyeop03) | 👨‍💻  |
