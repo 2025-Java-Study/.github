@@ -35,3 +35,7 @@
 | 원선 | [im1sun](https://github.com/im1sun)  |  👨‍💻😎  |
 | 용학 | [YONGHYNG](https://github.com/YONGHYNG) | 👨‍💻  |
 | 세엽 | [seyeop03](https://github.com/seyeop03) | 👨‍💻  |
+| 준우 | [juu-n-oo](https://github.com/juu-n-oo) | 👨‍💻  |
+| 선만 | [manijang2](https://github.com/manijang2) | 👨‍💻 |
+| 재훈 | [ljh468](https://github.com/ljh468) | 👨‍💻 |
+| 아람 | [ilikeram](https://github.com/ilikeram) | 👨‍💻 |
